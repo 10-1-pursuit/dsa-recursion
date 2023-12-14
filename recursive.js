@@ -1,3 +1,7 @@
+// Recursive Functions are made of two parts:
+// - 1: the Base case that will take us out of our recursive function
+// - 2: the Recursive case that will call the function again, that will move us toward the base case
+
 // Add ups all number up to and including the number given. MUST BE a positive integer
 const recAddition = (num) => {
     // Write your base case
